@@ -12,8 +12,11 @@
 var http = require('http');
 var fs = require('fs');
 
+
 // funcion para escribir los numeros de 1-100
 function escribirNumeros (){
+
+    var contador = 0;
 
     for(i = 0; i <=100; i++){
 
