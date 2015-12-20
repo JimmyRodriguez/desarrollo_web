@@ -12,7 +12,7 @@ var fs = require('fs');         //se carga el modulo File system = fs para poder
 http.createServer(function(req,res){
 
     //abrir y leer el archivo index.js
-    fs.readFile('index.js','utf8', function(err,data){//start function (err,data)
+    fs.readFile('hola_mundo1.js','utf8', function(err,data){//start function (err,data)
 
         res.writeHead(200,{'Content-type': 'text/html'});
 
