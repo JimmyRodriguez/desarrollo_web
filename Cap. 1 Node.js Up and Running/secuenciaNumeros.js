@@ -14,7 +14,7 @@ var fs = require('fs');
 
 
 // funcion para escribir los numeros de 1-100
-function escribirNumeros (){
+function escribirNumeros (res){
 
     var contador = 0;
 
@@ -22,7 +22,7 @@ function escribirNumeros (){
 
         contador++;
 
-        res.write(contador.toString());
+        res.write(contador.toString() + '\n');
 
 
     }//end for
@@ -45,7 +45,7 @@ http.createServer(function(req,res){
     //timer para abrir el archivo y leer el contenido
     setTimeout(function(){
 
-    console.log('abriendo' + app);
+    console.log('abriendo' + app + '\n');
 
     //abrir y leer el contenido del archivo
      fs.readFile(app,'utf8',function(err,data){
