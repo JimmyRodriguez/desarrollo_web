@@ -9,7 +9,7 @@ client.setEncoding('utf8'); //establece el formato del conjunto de caracteres
 
 
 //conectarse al server
-client.connect('8124','localhost', function(){
+client.connect('8124','10.14.8.120', function(){
 
 
     console.log('Servidor conectado');
