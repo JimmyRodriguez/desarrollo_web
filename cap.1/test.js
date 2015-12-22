@@ -19,7 +19,7 @@ var processPublicTimeLine = function(res){
 
     //fineshed, ok write data to a file
 
-    console.log('finished request');
+    console.log('solicitud finalizada');
 
 
 };
