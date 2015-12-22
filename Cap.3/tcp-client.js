@@ -4,12 +4,12 @@
 
 var net = require('net');
 
-var client = new net.createSocket(); // se crea un objeto cliente de tipo nuevo socket
+var client = new net.Socket(); // se crea un objeto cliente de tipo nuevo socket
 client.setEncoding('utf8'); //establece el formato del conjunto de caracteres
 
 
 //conectarse al server
-client.connect('8124','10.14.8.120', function(){
+client.connect('8124','localhost', function(){
 
 
     console.log('Servidor conectado');
@@ -17,7 +17,7 @@ client.connect('8124','10.14.8.120', function(){
 
 
     //preparar el terminal para la entrada de informacion
-    process.stdin.resumen();
+    process.stdin.resume();
 
     //cuando se reciben datos, se envian para el server
     process.stdin.on('data',function(data){
