@@ -5,4 +5,15 @@
 
 var File = require('file');
 
-var promise = File.read('')
+var promise = File.read('text.txt');
+
+promise.addCallback(function(data){
+
+//this is the process data
+});
+
+
+promise.addCallback(function(error){
+
+   //this is an error
+});
