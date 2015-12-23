@@ -3,17 +3,19 @@
  */
 
 
-var File = require('file');
+var File = require('fs');
 
-var promise = File.read('text.txt');
-
-promise.addCallback(function(data){
-
-//this is the process data
-});
+var promise = File.open('text.txt');
 
 
-promise.addCallback(function(error){
+promise.addCallback = function (data) {
 
-   //this is an error
-});
+    //this is the process data
+};
+
+
+promise.addErrback = (function(error){
+
+    //this is an error
+})
+

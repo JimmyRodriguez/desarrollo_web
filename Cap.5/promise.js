@@ -2,15 +2,16 @@
  * Created by Jimmy Rodriguez on 23/12/2015.
  */
 
+//var fs = require('fs');
+
 function test_and_load (filename){//start function test_and_load
 
-    var promise =  new process.Promise();
+    var promise = new process.Promise();
 
     fs.stat(filename).addCallback(function(stat){//start funcion anonima
 
-        if(!stat.isFile()){//start if
-
-            promise.emitSucess();
+        if(!stat.isFile()){
+            promise.emitError(error);
 
             return;
 
@@ -24,7 +25,8 @@ function test_and_load (filename){//start function test_and_load
             //end function anonima
         }).addErrback(function(error){//start function anonima
 
-            promise.emitError(error);
+
+            promise.emitError(function(error){
 
         });//end function anonima
 
@@ -33,11 +35,12 @@ function test_and_load (filename){//start function test_and_load
 
             promise.emitError(error);
 
-    });//end function test_and_load
+    });//end function anonima
 
+    return promise;
+
+});
 }//end function test_and_load
-
-
 
 
 
