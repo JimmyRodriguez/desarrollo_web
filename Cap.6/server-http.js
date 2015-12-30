@@ -6,12 +6,14 @@
 //se creara un servidor http para dar respuesta a las request entrantes
 //en base a los pasos definidos en el archivo-estatico-servidor
 
-    var http, path, fs, _base;
+    var http, path, fs, _base,pathname;
 
     http = require('http');
     path = require('path');
       fs = require('fs');
-   _base = "/workspace/development/Cap.6";
+
+_base = "/Users/idtdev2/Desktop/Repo_GitHub/desarrollo_web/index.html";
+
 
 
 // 1er. paso del archivo-estatico-servidor
@@ -19,13 +21,14 @@
 
     http.createServer(function(req,res){
 
-        var pathname = _base + req.url;
+    pathname = _base + req.url;
+        console.log(pathname);
 
         //var pathname = -_base + url.parse(req.url).pathname;
         console.log(pathname);
 
 
-        path.exists(pathname,function(exists){
+        fs.exists(pathname,function(exists){
 
             if(!exists){
 

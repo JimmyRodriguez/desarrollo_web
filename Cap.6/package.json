@@ -1,0 +1,13 @@
+{
+    "name": "angular-todo",
+    "version": "1.0.0",
+    "description": "Angular con Mongo y Node",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.x",
+        "mongoose": "latest",
+        "morgan": "~1.2.2",
+        "body-parser": "~1.5.2",
+        "method-override": "~2.1.2"
+    }
+}
