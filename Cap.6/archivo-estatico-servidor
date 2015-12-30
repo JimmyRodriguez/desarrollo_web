@@ -1,0 +1,12 @@
+para escribir un archivo estatico de servidor se necesitan los siguientes paso:
+
+    1) Crear un servidor HTTP y escuchar los request
+    2) Cuando las solicitudes llegan pasarlas las request URLs para determinar la ubicacion del archivo
+    3) verificar que el archivo exista
+    4) si el archivo no existe responder coordinamente
+    5) si el archivo existe, abrir el archivo para que pueda ser leido
+    6) preparar el encabezado de la respuesta
+    7) escribir el archivo para la respuesta
+    8) esperar la siguiente solicitud
+
+
