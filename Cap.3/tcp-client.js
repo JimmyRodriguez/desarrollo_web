@@ -13,7 +13,7 @@ client.connect('8124','10.14.8.120', function(){
 
 
     console.log('Servidor conectado');
-    client.write('quien necesita el browser para comunicarse?');
+    client.write('quien necesita el browser para comunicarse ');
 
 
     //preparar el terminal para la entrada de informacion

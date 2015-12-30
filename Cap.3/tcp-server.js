@@ -12,7 +12,7 @@ var server = net.createServer(function(conn){
 
     conn.on('data', function(data){
 
-       console.log(data + 'from ' + conn.remoteAddress + ' ' + conn.remotePort );
+       console.log(data + 'de ' + conn.remoteAddress + ' ' + conn.remotePort );
 
         conn.write('Repitiendo: ' + data);
 
