@@ -3,9 +3,6 @@
 var fs = require('fs');
 var FileName = "hola.txt";
 
-
-
-
 fs.exists(FileName, function(exists){
 
     if(exists){
@@ -30,9 +27,7 @@ fs.exists(FileName, function(exists){
                     console.log(data)
 
                 });
-
             }
-
 
         });
     }

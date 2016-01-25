@@ -1,10 +1,10 @@
 /**
- * Created by idtdev2 on 12/30/15.
+ * Created by jimmy rodriguez on 12/30/15.
  */
 
 
-var fs = require('fs');
-var FileName = "hola.txt";
+var fs = require('fs');  //modulo que carga el sistema de archivos "file system"
+var FileName = "hola.txt";   
 
 
 //--------------cbReadFile------------------------------
@@ -17,9 +17,7 @@ function cbReadFile(error,data){
     }
 
     console.log(data);
-
 }
-
 
 
 //------------------cbStat------------------------------
@@ -30,7 +28,6 @@ function cbStat(error,stats){
     if(error){
 
         throw error;
-
     }
 
     if(stats.isFile()){
@@ -38,8 +35,6 @@ function cbStat(error,stats){
         fs.readFile(FileName,'utf8',cbReadFile());
 
     }
-
-
 }
 
 
@@ -52,13 +47,13 @@ function cbExists(exists){
         fs.stat(FileName, cbStat);
     }
 
-
-
 }
-
-
 
 //----------
 
 
 fs.exists(FileName,cbExists)
+
+
+
+
