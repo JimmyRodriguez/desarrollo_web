@@ -4,7 +4,7 @@
 
 var async = require('async');
 
-async.limitsParallelimit({
+async.parallelLimit({
 
     one: function (callback) {
         setTimeout(function () {

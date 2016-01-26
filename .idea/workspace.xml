@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b49148e-99e2-423e-be8f-b1c434489fc1" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/nlcap.3/.domain.js.swp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlcap.3/async-parallel.js" afterPath="$PROJECT_DIR$/nlcap.3/async-parallel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nlcap.3/async-parallel-limits.js" afterPath="$PROJECT_DIR$/nlcap.3/async-parallel-limits.js" />
     </list>
     <ignored path="desarrollo_web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,8 +96,8 @@
       <file leaf-file-name="async-parallel-limits.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel-limits.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7050243">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.65640193">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -493,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel-limits.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7050243">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.65640193">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
