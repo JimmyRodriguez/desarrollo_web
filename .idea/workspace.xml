@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b49148e-99e2-423e-be8f-b1c434489fc1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/npm.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/nlcap.3/.domain.js.swp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/Listing 01.html" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/Listing 03.html" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/Listing 04.js" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 04.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/Listing 05.html" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/angular.js" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/angular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/bootstrap-theme.css" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/bootstrap.css" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cod-pro-angular/Chapter 01/test.html" afterPath="$PROJECT_DIR$/cod-pro-angular/Chapter01/test.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/async-parallel-limits.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel-limits.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/async-parallel.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/async-series.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/async-series.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/async.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/async.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/domain-add.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/domain-add.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/domain.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/domain.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/domain2.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/domain2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/domain3.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/domain3.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/error-handling.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/error-handling.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/event-global.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/event-global.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/file-reader.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/file-reader2.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.3/hola.txt" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.3/hola.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.4/.event-emitter-user.js.swp" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.4/.event-emitter-user.js.swp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.4/event-emitter-once.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.4/event-emitter-once.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.4/event-emitter-user.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.4/event-emitter-user.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/nlcap.4/simple-event-emmiter.js" afterPath="$PROJECT_DIR$/cod-pro-node/nlcap.4/simple-event-emmiter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="desarrollo_web.iws" />
@@ -24,26 +65,192 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="event-emitter-user.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nlcap.4/event-emitter-user.js">
+      <file leaf-file-name="todo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.20236088">
+              <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1454021336752" expanded="true" signature="923:1566" placeholder="..." />
+                <marker date="1454021336752" expanded="true" signature="950:999" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event-emitter-once.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nlcap.4/event-emitter-once.js">
+      <file leaf-file-name="controller1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/controller/controller1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36466774">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/angular.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <marker date="1377480268000" expanded="true" signature="209150:209892" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="209189:209283" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="210002:210766" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="210122:210610" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="210330:210429" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="210477:210594" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="210668:210753" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="210953:211201" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="211277:211524" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="211639:211885" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="256285:256366" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="256445:256859" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="362079:362662" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="362425:362651" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="362486:362638" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="362862:363243" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="362977:363028" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="363292:363538" placeholder="[...]" />
+                <marker date="1377480268000" expanded="true" signature="363300:363437" placeholder="{&quot;name&quot;: &quot;Alice&quot;...}" />
+                <marker date="1377480268000" expanded="true" signature="363445:363532" placeholder="{&quot;name&quot;: &quot;Bob&quot;...}" />
+                <marker date="1377480268000" expanded="true" signature="363618:364095" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="363676:363785" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="363857:364087" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="487283:487384" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="487404:487444" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="487577:488715" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="487596:488704" placeholder="{&quot;restrict&quot;: 'A'...}" />
+                <marker date="1377480268000" expanded="true" signature="487790:488692" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="487950:488023" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="488143:488196" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="488307:488678" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="488368:488514" placeholder="//..." />
+                <marker date="1377480268000" expanded="true" signature="488569:488617" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="488784:489080" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="488813:488929" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="489183:489489" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="511558:511608" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="511622:511662" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="511675:511708" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="511809:512251" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="512316:512549" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="512613:512921" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="513383:513693" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="513754:513809" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="513858:513916" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="514007:514478" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="515260:515434" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="515301:515420" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="515363:515404" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="515490:515521" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="515535:515567" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="515680:515902" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="516689:516884" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="516730:516870" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="516792:516854" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="516940:516971" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="516985:517017" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="517130:517352" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="537997:538063" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="538128:538217" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="538268:538573" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="538646:538674" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="538747:538775" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="541887:542232" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="541962:542021" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="542135:542220" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="542302:542510" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="542341:542454" placeholder="[...]" />
+                <marker date="1377480268000" expanded="true" signature="542744:542884" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="542925:542956" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543017:543461" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543495:543523" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543572:543596" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543630:543654" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543703:543730" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543823:543944" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="543997:544157" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="544206:544327" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="565208:565585" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="565385:565572" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="565464:565558" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="565665:565794" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="565834:565890" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="565986:566155" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="566188:566288" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="566336:566412" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="566445:566521" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="566569:566669" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="566851:567185" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="567266:567559" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="578762:578959" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="578843:578946" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="578971:579167" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="579052:579154" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="579283:579485" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="579574:579649" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="579741:579875" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="579898:579987" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="580085:580468" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="584491:584688" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="584572:584675" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="584700:584896" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="584781:584883" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="585012:585214" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="585303:585378" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="585470:585604" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="585627:585716" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="585814:586237" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="587267:587300" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="587391:587795" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="590377:590800" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="590451:590469" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="590571:590787" placeholder="..." />
+                <marker date="1377480268000" expanded="true" signature="590870:590977" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591055:591195" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591235:591266" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591357:591756" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591802:591830" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591891:591915" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="591961:591985" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="592046:592073" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="592164:592262" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="592310:592449" placeholder="{...}" />
+                <marker date="1377480268000" expanded="true" signature="592497:592635" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-theme.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap-theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Listing 05.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 05.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +260,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -72,6 +280,10 @@
         <option value="$PROJECT_DIR$/nlcap.4/simple-event-emmiter.js" />
         <option value="$PROJECT_DIR$/nlcap.4/event-emitter-user.js" />
         <option value="$PROJECT_DIR$/nlcap.4/event-emitter-once.js" />
+        <option value="$PROJECT_DIR$/cod-pro-angular/Chapter 01/Listing 01.html" />
+        <option value="$PROJECT_DIR$/cod-pro-angular/Chapter 01/jcap.1/todo.html" />
+        <option value="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/controller/controller1.js" />
+        <option value="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/todo.html" />
       </list>
     </option>
   </component>
@@ -111,6 +323,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,13 +353,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nlcap.4" />
+              <option name="myItemId" value="cod-pro-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cod-pro-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cod-pro-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="desarrollo_web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cod-pro-angular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-1.4.9" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +432,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1" />
+      <recent name="$PROJECT_DIR$/cod-pro-angular/Chapter 01/libraries" />
+      <recent name="$PROJECT_DIR$/cod-pro-node" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cod-pro-angular/Chapter 01" />
+      <recent name="$PROJECT_DIR$/cod-pro-angular/Chapter 01/libraries" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -219,13 +509,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="24" width="1295" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="71" y="24" width="1295" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4636785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30503145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -234,11 +525,28 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4636785" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2523585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -256,256 +564,509 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nlcap.4/event-emitter-user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-series.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/error-handling.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/event-global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain-add.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel-limits.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel-limits.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.4/simple-event-emmiter.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.4/simple-event-emmiter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-series.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-series.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/error-handling.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/error-handling.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/event-global.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/event-global.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-series.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-series.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain2.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain3.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/file-reader.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/file-reader2.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/file-reader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/file-reader2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel-limits.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel-limits.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65640193">
           <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-parallel.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-parallel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.048622366">
           <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/domain-add.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2917342">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/event-global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4132901">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/error-handling.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/error-handling.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60777956">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async-series.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/hola.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.4/event-emitter-user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.4/simple-event-emmiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.4/event-emitter-once.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36466774">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/domain-add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34035656">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/async-series.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.3/async.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/event-global.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07293355">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46191248">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.4/simple-event-emmiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19448946">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.4/event-emitter-user.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-node/nlcap.3/file-reader2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/angular-1.4.9/docs/js/docs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17706576">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.min.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/angular-1.4.9/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16526139">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-58.205734">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/Listing 05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1377480268000" expanded="true" signature="209150:209892" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="209189:209283" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="210002:210766" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="210122:210610" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="210330:210429" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="210477:210594" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="210668:210753" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="210953:211201" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="211277:211524" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="211639:211885" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="256285:256366" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="256445:256859" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="362079:362662" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="362425:362651" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="362486:362638" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="362862:363243" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="362977:363028" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="363292:363538" placeholder="[...]" />
+            <marker date="1377480268000" expanded="true" signature="363300:363437" placeholder="{&quot;name&quot;: &quot;Alice&quot;...}" />
+            <marker date="1377480268000" expanded="true" signature="363445:363532" placeholder="{&quot;name&quot;: &quot;Bob&quot;...}" />
+            <marker date="1377480268000" expanded="true" signature="363618:364095" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="363676:363785" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="363857:364087" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="487283:487384" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="487404:487444" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="487577:488715" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="487596:488704" placeholder="{&quot;restrict&quot;: 'A'...}" />
+            <marker date="1377480268000" expanded="true" signature="487790:488692" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="487950:488023" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="488143:488196" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="488307:488678" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="488368:488514" placeholder="//..." />
+            <marker date="1377480268000" expanded="true" signature="488569:488617" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="488784:489080" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="488813:488929" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="489183:489489" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="511558:511608" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="511622:511662" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="511675:511708" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="511809:512251" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="512316:512549" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="512613:512921" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="513383:513693" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="513754:513809" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="513858:513916" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="514007:514478" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="515260:515434" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="515301:515420" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="515363:515404" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="515490:515521" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="515535:515567" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="515680:515902" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="516689:516884" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="516730:516870" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="516792:516854" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="516940:516971" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="516985:517017" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="517130:517352" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="537997:538063" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="538128:538217" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="538268:538573" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="538646:538674" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="538747:538775" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="541887:542232" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="541962:542021" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="542135:542220" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="542302:542510" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="542341:542454" placeholder="[...]" />
+            <marker date="1377480268000" expanded="true" signature="542744:542884" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="542925:542956" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543017:543461" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543495:543523" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543572:543596" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543630:543654" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543703:543730" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543823:543944" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="543997:544157" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="544206:544327" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="565208:565585" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="565385:565572" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="565464:565558" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="565665:565794" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="565834:565890" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="565986:566155" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="566188:566288" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="566336:566412" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="566445:566521" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="566569:566669" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="566851:567185" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="567266:567559" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="578762:578959" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="578843:578946" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="578971:579167" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="579052:579154" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="579283:579485" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="579574:579649" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="579741:579875" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="579898:579987" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="580085:580468" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="584491:584688" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="584572:584675" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="584700:584896" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="584781:584883" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="585012:585214" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="585303:585378" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="585470:585604" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="585627:585716" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="585814:586237" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="587267:587300" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="587391:587795" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="590377:590800" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="590451:590469" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="590571:590787" placeholder="..." />
+            <marker date="1377480268000" expanded="true" signature="590870:590977" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591055:591195" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591235:591266" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591357:591756" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591802:591830" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591891:591915" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="591961:591985" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="592046:592073" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="592164:592262" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="592310:592449" placeholder="{...}" />
+            <marker date="1377480268000" expanded="true" signature="592497:592635" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nlcap.4/event-emitter-once.js">
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/controller/controller1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36466774">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod-pro-angular/Chapter01/jcap.1/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20236088">
+          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
+          <folding>
+            <marker date="1454021336752" expanded="true" signature="923:1566" placeholder="..." />
+            <marker date="1454021336752" expanded="true" signature="950:999" placeholder="..." />
           </folding>
         </state>
       </provider>

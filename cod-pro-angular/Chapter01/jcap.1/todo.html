@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html ng-app="appList">
+<head>
+    <title>TO DO List</title>
+	<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />-->
+	<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />-->
+	<!--<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>-->
+	<!--<link href="./cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap.css" rel="stylesheet" />-->
+    <!--<link href="./cod-pro-angular/Chapter01/libraries/bootstrap-3.3.6/css/bootstrap-theme.css" rel="stylesheet" />-->
+
+	<link href="bootstrap.css" rel="stylesheet" />
+	<link href="bootstrap-theme.css" rel="stylesheet">
+
+	<!--here to use angular libraries and cdn -->
+	<script src="/cod-pro-angular/Chapter01/libraries/angular-1.4.9/angular.js"></script>
+	<script src="controller/controller1.js"></script>
+
+</head>
+<body>
+	<div class="page-header">
+	    <h1>Jimmy's To Do List </h1>
+        </div>
+
+	<div class ="panel">
+		<div class="input-group">
+			<input class="form-control"/>
+			<span class="input-group-btn">
+				<button class="btn btn-default">Add</button>
+			</span>
+		</div>
+
+	<table class="table table-striped">
+		<thead>
+		   <tr>
+			<th>Description</th>
+			<th>Done</th>
+           </tr>
+        </thead>
+
+		<tbody>
+        <tr><td>Buy Flowers</td><td>No</td></tr>
+        <tr><td>Get Shoes</td><td>No</td></tr>
+        <tr><td>Collect Tickets</td><td>Yes</td></tr>
+        <tr><td>Call Joe</td><td>No</td></tr>
+		</tbody>
+	</table>
+    </div>
+</body>
+</html>
